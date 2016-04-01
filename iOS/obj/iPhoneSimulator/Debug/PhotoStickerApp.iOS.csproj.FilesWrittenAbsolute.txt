@@ -1,0 +1,17 @@
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/olevegard/Projects/PhotoStickerApp/iOS/bin/iPhoneSimulator/Debug/PhotoStickerApp.iOS.exe.mdb
+/Users/olevegard/Projects/PhotoStickerApp/iOS/bin/iPhoneSimulator/Debug/PhotoStickerApp.iOS.exe
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/PhotoStickerApp.iOS.exe
+/Users/olevegard/Projects/PhotoStickerApp/iOS/obj/iPhoneSimulator/Debug/PhotoStickerApp.iOS.exe.mdb
+/Users/olevegard/Projects/PhotoStickerApp/iOS/bin/iPhoneSimulator/Debug/PhotoStickerApp.dll
+/Users/olevegard/Projects/PhotoStickerApp/iOS/bin/iPhoneSimulator/Debug/PhotoStickerApp.dll.mdb

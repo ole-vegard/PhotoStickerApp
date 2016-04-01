@@ -1,0 +1,5 @@
+/Users/olevegard/Projects/PhotoStickerApp/PhotoStickerApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/olevegard/Projects/PhotoStickerApp/PhotoStickerApp/bin/Debug/PhotoStickerApp.dll.mdb
+/Users/olevegard/Projects/PhotoStickerApp/PhotoStickerApp/bin/Debug/PhotoStickerApp.dll
+/Users/olevegard/Projects/PhotoStickerApp/PhotoStickerApp/obj/Debug/PhotoStickerApp.dll
+/Users/olevegard/Projects/PhotoStickerApp/PhotoStickerApp/obj/Debug/PhotoStickerApp.dll.mdb

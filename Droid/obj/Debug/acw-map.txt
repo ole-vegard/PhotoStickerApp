@@ -1,0 +1,4 @@
+PhotoStickerApp.Droid.MainActivity, PhotoStickerApp.Droid;md59731fb9e35844e2b05263b9e1c7fe927.MainActivity
+PhotoStickerApp.Droid.MainActivity, PhotoStickerApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59731fb9e35844e2b05263b9e1c7fe927.MainActivity
+PhotoStickerApp.Droid.MainActivity;md59731fb9e35844e2b05263b9e1c7fe927.MainActivity
+photostickerapp.droid.MainActivity;md59731fb9e35844e2b05263b9e1c7fe927.MainActivity

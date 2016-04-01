@@ -1,0 +1,3 @@
+﻿<Properties StartupItem="Droid/PhotoStickerApp.Droid.csproj">
+  <MonoDevelop.Ide.ItemProperties.PhotoStickerApp.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
